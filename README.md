@@ -1,0 +1,1 @@
+Objetivo del Juego: El objetivo del juego de Batalla Naval es hundir todos los barcos de tu oponente antes de que él hunda los tuyos. El juego se desarrolla en un tablero dividido en una cuadrícula donde cada jugador coloca sus barcos en secreto. Luego, ambos jugadores se turnan para adivinar las ubicaciones de los barcos del oponente.
